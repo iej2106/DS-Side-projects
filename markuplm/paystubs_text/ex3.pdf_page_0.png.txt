@@ -1,0 +1,63 @@
+EMPLOYEE
+Solomon Navarro
+
+BUSINESSNAME
+
+100 Self-Employed Avenue
+Boston, BO 12225
+
+(555) 1000 9876
+
+info@mybusiness.com
+
+EARNINGS QTY/HRS
+Regular services 120
+Special Projects 68
+Bonus 1
+
+PAY STUB
+
+NET PAY
+4,188.00$
+PAY STUB NUMBER:
+45047
+PERIOD:
+May 2023
+DATE:
+01/06/2023
+RATE AMOUNT
+25.00$ 3,000.00$
+30.00$ 2,040.00$
+150.00$ 150.00$
+5,190.00$
+
+DEDUCTIONS AMOUNT
+
+Federal income tax
+
+State income tax
+
+The social security part of the FICA
+The M edicare part of FICA
+
+Loans
+
+SERVICES PERFORMED FOR
+CLIENT COMPANY NAME
+
+Oo 452 Best ClientAvenue
+
+1 4567
+Los Angeles, LA 10052 e CSUN Gone
+
+185.00$
+206.00$
+133.00$
+
+68.00$
+410.00$
+
+1,002.00$
+
+© info@mybestclient.com
+
